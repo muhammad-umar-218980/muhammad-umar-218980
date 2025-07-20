@@ -28,18 +28,18 @@
 
 ### 💻 Languages & Tools
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind Css"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" height="40" alt="Git" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" height="80" alt="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" height="80" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" height="80" alt="Bootstrap" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" alt="Tailwind Css"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="80" alt="C" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" height="80" alt="Git" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="80" alt="GitHub" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="80" alt="Node.js" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="80" alt="Express.js" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="80" alt="Python" />
 </p>
 
 

@@ -1,48 +1,63 @@
 # 👋 Hello Everyone, I'm Muhammad Umar!
 
-🎓 Student at NED University of Engineering & Technology | CSIT Department  
-🧑‍💻 Beginner in Computer Science, passionate about learning and growing every day  
-💡 Currently focused on building skills in programming, problem-solving, and web development.
+🎓 Student at NED University of Engineering & Technology – CSIT Department (Currently in 2nd Year)  
+🧑‍💻 Beginner in Computer Science | Passionate about learning and growing every day  
+💡 Focused on building skills in programming, problem-solving, and full-stack web development.
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-### 🌱 What I'm Learning:
+### 🌱 What I'm Currently Learning
 - C++ and Object-Oriented Programming (OOP)  
-- JavaScript (advanced concepts, beyond functions)  
-- HTML, CSS, Bootstrap & Tailwind  
-- Data Structures & Algorithms (LeetCode practice)  
+- JavaScript (advanced concepts beyond the basics)  
+- HTML, CSS, Bootstrap & Tailwind CSS  
+- **Git & GitHub** (version control basics and workflows)  
+- **Node.js & Express** (back-end fundamentals)  
+- **MongoDB** (NoSQL database for full-stack development)  
+- **React.js** (starting soon to build dynamic user interfaces)  
+- Data Structures & Algorithms (solving problems on LeetCode)  
+- **Python Fundamentals** (already covered core concepts)
 
 ---
 
-### 📍 Find Me Online:
+### 🌐 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-05760a35a/)
 
 ---
 
-### 💻 Languages & Tools:
+### 💻 Languages & Tools
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind Css"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" height="40" alt="Git" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
+</p>
+
+
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-umar-218980&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=muhammad-umar-218980&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-umar-218980&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad-umar-218980&theme=tokyonight)
+### ⚡ Fun Fact
+I believe in **1% daily improvement**. I'm on a mission to escape the rat race by growing my skills, one day at a time. 🚀
 
 ---
-
-### ⚡ Fun Fact:
-I believe in **1% daily improvement**. I'm on a mission to escape the rat race by growing my skills step by step — every single day. 🚀
-
 
 <!---
 muhammad-umar-218980/muhammad-umar-218980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

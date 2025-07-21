@@ -49,7 +49,8 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-umar-218980&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=muhammad-umar-218980&theme=tokyonight" height="180px"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-umar-218980&theme=tokyonight" height="180px"/>
 </p>
 
 ---

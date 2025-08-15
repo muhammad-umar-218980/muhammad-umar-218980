@@ -1,6 +1,6 @@
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=400&color=1DBBF5&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+Everyone;This+is++Muhammad+Umar+!!;CSIT+Student+at+NED+University;Beginner+Full+Stack+Developer;Future+AI+%26+Data+Scientist)](https://git.io/typing-svg)
+
 
 
 ---
@@ -42,6 +42,8 @@
 ---
 
 ### 💻 Languages & Tools
+<!--
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" height="80" alt="HTML5" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" height="80" alt="CSS3" />
@@ -52,12 +54,20 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" height="80" alt="Git" />
   <img src="https://github.com/muhammad-umar-218980/muhammad-umar-218980/blob/main/assets/github-white.svg" height="70" alt="Github">
-<!--   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="80" alt="GitHub" /> -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="80" alt="Node.js" />
   <img src="https://github.com/muhammad-umar-218980/muhammad-umar-218980/blob/main/assets/express-white.svg" height="70" alt="Github">
-<!--   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="80" alt="Express.js" /> -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="80" alt="Python" />
   
+</p>     
+
+-->
+
+
+<p align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=dark" />
+  <!-- Light mode / default -->
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=light" alt="Languages and Tools" />
 </p>
 
 ---

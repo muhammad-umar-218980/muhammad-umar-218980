@@ -8,16 +8,27 @@
 
 ---
 
-### 🌱 What I'm Currently Learning
-- C++ and Object-Oriented Programming (OOP)  
-- JavaScript (advanced concepts beyond the basics)  
-- HTML, CSS, Bootstrap & Tailwind CSS  
-- **Git & GitHub** (version control basics and workflows)  
-- **Node.js & Express** (back-end fundamentals)  
-- **MongoDB** (NoSQL database for full-stack development)  
-- **React.js** (starting soon to build dynamic user interfaces)  
+### 🌱 My Learning Journey
+
+**✅ Already Covered**  
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap & Tailwind CSS  
+- C and C++ (including Object-Oriented Programming)  
+- Git & GitHub (version control basics and workflows)  
+- Python (fundamentals and core concepts)  
+
+**📚 Currently Learning**  
+- MongoDB  
+- Node.js & Express  
+- React.js  
 - Data Structures & Algorithms (solving problems on LeetCode)  
-- **Python Fundamentals** (already covered core concepts)
+
+**🚀 Future Goals**  
+- Advance Python for AI, Machine Learning, and Data Science  
+- Enhance full-stack development skills and build real-world projects  
+
 
 ---
 
@@ -55,10 +66,6 @@
 
 ---
 
-### ⚡ Fun Fact
-I believe in **1% daily improvement**. I'm on a mission to escape the rat race by growing my skills, one day at a time. 🚀
-
----
 
 <!---
 muhammad-umar-218980/muhammad-umar-218980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

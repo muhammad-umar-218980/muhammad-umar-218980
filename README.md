@@ -1,8 +1,8 @@
 # 👋 Hello Everyone, I'm Muhammad Umar!
 
 🎓 Student at NED University of Engineering & Technology – CSIT Department (Currently in 2nd Year)  
-🧑‍💻 Beginner in Computer Science | Passionate about learning and growing every day  
-💡 Focused on building skills in programming, problem-solving, and full-stack web development.
+🧑‍💻 Computer Science Student & beginner developer | Passionate about learning and growing every day  
+💡 Focused on programming, problem-solving, and full-stack web development.
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -47,10 +47,13 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="80" alt="C" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain-wordmark.svg" height="80" alt="Git" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="80" alt="GitHub" />
+  <img src="https://github.com/muhammad-umar-218980/muhammad-umar-218980/blob/main/assets/github-white.svg" height="70" alt="Github">
+<!--   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="80" alt="GitHub" /> -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="80" alt="Node.js" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="80" alt="Express.js" />
+  <img src="https://github.com/muhammad-umar-218980/muhammad-umar-218980/blob/main/assets/express-white.svg" height="70" alt="Github">
+<!--   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="80" alt="Express.js" /> -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="80" alt="Python" />
+  
 </p>
 
 

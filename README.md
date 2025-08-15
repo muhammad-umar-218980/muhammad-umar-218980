@@ -1,4 +1,9 @@
-# 👋 Hello Everyone, I'm Muhammad Umar!
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=400&color=1DBBF5&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+Everyone;This+is++Muhammad+Umar+!!;CSIT+Student+at+NED+University;Beginner+Full+Stack+Developer;Future+AI+%26+Data+Scientist)](https://git.io/typing-svg)
+
+
+---
 
 🎓 Student at NED University of Engineering & Technology – CSIT Department (Currently in 2nd Year)  
 🧑‍💻 Computer Science Student & beginner developer | Passionate about learning and growing every day  

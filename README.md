@@ -4,7 +4,6 @@
 🧑‍💻 Computer Science Student & beginner developer | Passionate about learning and growing every day  
 💡 Focused on programming, problem-solving, and full-stack web development.
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -55,6 +54,16 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="80" alt="Python" />
   
 </p>
+
+---
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-218980&theme=tokyonight&hide_border=true&border_radius=4.9&include_all_commits=true&count_private=true&layout=compact&bg_color=000000" alt="Top Languages" />
+
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 

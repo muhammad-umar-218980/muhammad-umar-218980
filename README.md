@@ -94,6 +94,17 @@
 
 ---
 
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!-- dark snake -->
+![Umar's github activity graph](https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/github-contribution-grid-snake.svg)
+
+
+---
+
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>

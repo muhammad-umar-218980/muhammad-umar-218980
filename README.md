@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=400&color=1DBBF5&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+Everyone;This+is++Muhammad+Umar+!!;CSIT+Student+at+NED+University;Beginner+Full+Stack+Developer;Future+AI+%26+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=400&color=1DBBF5&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hello+Everyone;This+is++Muhammad+Umar+!!;CSIT+Student+at+NED+University;Beginner+Full+Stack+Developer;Future+AI+%26+Data+Scientist)](https://github.com/muhammad-umar-218980)
 
  
 ---
@@ -110,7 +110,7 @@
 ---
 
   <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <a href="https://github.com/muhammad-umar-218980" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-umar-218980&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-umar-218980&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />

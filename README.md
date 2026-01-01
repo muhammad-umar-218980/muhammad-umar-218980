@@ -73,7 +73,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-218980&theme=tokyonight&hide_border=true&border_radius=4.9&include_all_commits=true&count_private=true&layout=compact&bg_color=000000" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-218980&theme=tokyonight&hide_border=true&border_radius=4.9&include_all_commits=true&count_private=true&layout=compact&bg_color=000000" alt="Top Languages" /> -->
 
 
 

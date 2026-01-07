@@ -68,12 +68,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=light" alt="Languages and Tools" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=dark" />
   
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" />
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" alt="Languages and Tools" />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/muhammad-umar-218980">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" alt="Languages and Tools" />
+  </a>
 </p>
 
 ---
@@ -85,6 +93,7 @@
 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
+  
 
 
 
@@ -92,9 +101,11 @@
 
 ### 📊 GitHub Stats
 <p align="left">
+  <a href="https://github.com/muhammad-umar-218980">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammad-umar-218980&show_icons=true&theme=tokyonight" height="180px"/>
   <br><br>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=muhammad-umar-218980&theme=tokyonight" height="180px"/>
+  </a>
 </p>
 
 
@@ -106,11 +117,13 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph
 
+  <a href="https://github.com/muhammad-umar-218980">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/github-contribution-grid-snake.svg" />
 </picture>
+  </a>
 
 
 

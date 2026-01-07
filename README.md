@@ -92,9 +92,14 @@
 
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat)
+<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-umar-218980&label=Profile%20Views&color=0e75b6&style=flat) -->
   
 
+<p>
+  <a href="https://github.com/muhammad-umar-218980">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-umar-218980&color=blue" alt="Visitor Badge" />
+  </a>
+</p>
 
 
 ---

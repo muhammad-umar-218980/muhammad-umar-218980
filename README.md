@@ -62,11 +62,18 @@
 -->
 
 
-<p align="center">
+<!-- <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=dark" />
-  <!-- Light mode / default -->
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=light" />
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,nodejs,express,python&theme=light" alt="Languages and Tools" />
+</p> -->
+
+<p align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=dark" />
+  
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" alt="Languages and Tools" />
 </p>
 
 ---

@@ -76,13 +76,26 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" alt="Languages and Tools" />
 </p> -->
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/muhammad-umar-218980">
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs&theme=light" alt="Languages and Tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs,postgresql&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs,postgresql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs,postgresql&theme=light" alt="Languages and Tools" />
   </a>
-</p>
+</p> 
+
+
+<!-- <p align="center">
+  <a href="https://github.com/muhammad-umar-218980">
+    <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cppgit,,github,python,mongodb,express,react,nodejs,postgresql,vercel,netlify,npm,redux,vite&theme=dark" />
+
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    srcset="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs,postgresql,vercel,netlify,npm,redux,vite&theme=light" />
+
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,cpp,git,github,python,mongodb,express,react,nodejs,postgresql,vercel,netlify,npm,redux,vite&theme=light" alt="Languages and Tools" />
+  </a>
+</p> -->
 
 ---
 

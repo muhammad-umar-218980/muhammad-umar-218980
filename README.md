@@ -109,7 +109,10 @@ I enjoy solving programming problems on LeetCode and exploring new technologies.
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-218980&layout=compact&theme=blue-green)
+
 ---
+
 
 ### 📈 GitHub Activity Graph
 

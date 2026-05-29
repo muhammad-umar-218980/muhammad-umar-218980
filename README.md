@@ -138,3 +138,7 @@ I enjoy solving programming problems on LeetCode and exploring new technologies.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=muhammad-umar-218980&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=muhammad-umar-218980&theme=midnight)
+
+

@@ -101,13 +101,13 @@ I enjoy solving programming problems on LeetCode and exploring new technologies.
 ---
 
 ### 📊 GitHub Stats
-<!-- <p align="left">
+ <p align="left">
   <a href="https://github.com/muhammad-umar-218980">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammad-umar-218980&show_icons=true&theme=tokyonight" height="180px"/>
   <br><br>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammad-umar-218980&theme=tokyonight" height="180px"/>
   </a>
-</p> -->
+</p> 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-218980&layout=compact&theme=blue-green) -->
 

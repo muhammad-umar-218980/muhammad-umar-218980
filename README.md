@@ -144,3 +144,14 @@ I enjoy solving programming problems on LeetCode and exploring new technologies.
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=muhammad-umar-218980&theme=midnight)
 
 
+
+
+
+## 🌱 Contribution Garden
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/contribution-garden-dark.svg" />
+  <img alt="My GitHub contribution garden" src="https://raw.githubusercontent.com/muhammad-umar-218980/muhammad-umar-218980/output/contribution-garden.svg" />
+</picture>
+
+

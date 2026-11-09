@@ -129,13 +129,23 @@ I enjoy solving programming problems on LeetCode and exploring new technologies.
 ---
 
 <!-- contribution graph -->
-<a href="https://github.com/muhammad-umar-218980" title="Go to Source">
+<!-- <a href="https://github.com/muhammad-umar-218980" title="Go to Source">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-umar-218980&theme=react-dark" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-umar-218980&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-umar-218980&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
   </picture>
+</a> -->
+
+<!-- contribution graph -->
+<a href="https://github.com" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-act-graph.rodriaum.com/graph?username=muhammad-umar-218980&days=31&theme=react-dark&type=default&area=true&grid=true&hide_title=false&hide_border=true&height=420&radius=1" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://rodriaum.com" />
+    <img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=muhammad-umar-218980&days=31&theme=react-dark&type=default&area=true&grid=true&hide_title=false&hide_border=true&height=420&radius=1" alt="muhammad-umar-218980's contribution graph" />
+  </picture>
 </a>
+
 
 ---
 
